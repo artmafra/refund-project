@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +27,7 @@ body {
   width: 100%;
   height: 100vh;
 
-  background-color: #e4ece9;
+  background: linear-gradient(to left, #e2e2e2, #97c8ad);
 
   display: flex;
   flex-direction: column;
